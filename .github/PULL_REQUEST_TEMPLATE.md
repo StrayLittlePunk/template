@@ -1,12 +1,6 @@
-<!-- Please explain the changes you made -->
+## What does this PR do?
 
-<!--
-Please, make sure:
-- you have read the contributing guidelines:
-  https://github.com/{{gh-username}}/{{project-name}}/blob/main/docs/CONTRIBUTING.md
-- you have formatted the code using rustfmt:
-  https://github.com/rust-lang/rustfmt
-- you have checked that all tests pass, by running `cargo test --all`
-- you have updated the changelog (if needed):
-  https://github.com/{{gh-username}}/{{project-name}}/blob/main/CHANGELOG.md
--->
+## Checklist before merging
+- [ ] If its a core feature, I have added through test.
+- [ ] Do we need to implement analytics? 
+- [ ] Will this be part of a product update? If yes, please write one phrase about this update
